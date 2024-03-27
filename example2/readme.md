@@ -1,3 +1,5 @@
+sequences simulated under LG+C60 [mixture model](http://www.iqtree.org/doc/Complex-Models).
+
 AA sequences simulated under the model LG+C60.
 
 ```
