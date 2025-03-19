@@ -1,14 +1,29 @@
+# go thru today
+# MLE phylogenetuc reconstruction
 IQ-Tree
 iqtree.cibiv.univie.ac.at/
 
 Phyml
 http://www.atgc-montpellier.fr/phyml/
 
+# Visualization
+iTOL (username = password = cuhkbioinfo2024)
+https://itol.embl.de/
+
+presto
+http://www.atgc-montpellier.fr/presto/
+
+
+
+################################################################
+# additional resources, won't do the following today
+
+# Bayesian
 Mrbayes
 https://www.phylogeny.fr/one_task.cgi?task_type=mrbayes
 
+# user-friendly and standalone
 MEGA (download at https://www.megasoftware.net)
 
-Visualization
-iTOL (username = password = cuhkbioinfo2024)
+# tree visualization
 http://www.atgc-montpellier.fr/presto/
